@@ -155,6 +155,6 @@ No known bugs at this time.
 
 ## Authors
 Maria Fernanda Lopez - [Github](https://github.com/ferchislopez0910) / [Twitter](https://twitter.com/ferchislopez0910)  
-Felipe Vargas - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/felipevargas_bz)  
+Felipe Vargas - [Github](https://github.com/felipevargas-bz) / [Twitter](https://twitter.com/felipevargas_bz)  
 Andres Vasquez - [Github](https://github.com/vasketz) / [Twitter](https://twitter.com/vasketz)  
 
